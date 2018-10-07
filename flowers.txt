@@ -1,4 +1,5 @@
 rose
 red rose
 white rose
+blue rose
 green rose
